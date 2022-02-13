@@ -8,6 +8,6 @@ format:
 ```
 [default]
 aws_access_key_id = asjkdasjkadskjsdakj
-aws_descret_access_key = kasdjkdsajkdaskjsdakjasdjk
+aws_secret_access_key = kasdjkdsajkdaskjsdakjasdjk
 ```
 
